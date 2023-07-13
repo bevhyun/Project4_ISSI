@@ -3,6 +3,9 @@ import animal.Animal;
 public class PRTest {
     public static void main(String[] args) {
 
+        hello hello = new hello();
+
+
         Animal animal = new Amimal();
         Animal.name = "cong";
         Animal.color = "blue";
